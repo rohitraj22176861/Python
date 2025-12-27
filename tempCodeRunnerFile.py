@@ -1,0 +1,2 @@
+discount=None
+print(discount)
